@@ -36,7 +36,7 @@ Source code is not necessarily published here and may be maintained in separate 
 
 More information about Treved and its products is available on the official website:
 
-**https://treved.pages.dev/**
+**https://treved.dev/**
 
 ## Contact
 
