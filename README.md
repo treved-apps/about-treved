@@ -1,6 +1,6 @@
 # Treved
 
-**Small apps. Big attention to detail.**
+*Small apps. Big attention to detail.*
 
 Treved is an independent software studio focused on creating small, useful, and thoughtfully designed digital products.
 
